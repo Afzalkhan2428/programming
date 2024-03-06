@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iframe</title>
+    <link rel="stylesheet" href="./iframe.css">
+    <link rel="shortcut icon" href="./images/myntra.png" type="image/x-icon">
+</head>
+<body>
+    <iframe src="https://youtu.be/siY7jyDNeps?feature=shared" frameborder="0"></iframe>
+    <iframe src="https://testfreshers.com/" frameborder="0"></iframe>
+    <iframe src="https://www.wikipedia.org/" frameborder="0"></iframe>
+    <iframe src="https://www.facebook.com/" frameborder="0"></iframe>
+    <iframe src="https://www.flipkart.com/" frameborder="0"></iframe>
+    <iframe src="https://www.amazon.in/" frameborder="0"></iframe>
+    <iframe src="https://www.myntra.com/" frameborder="0"></iframe>
+    <iframe src="https://www.google.com/" frameborder="0"></iframe>
+    <iframe src="https://www.youtube.com/" frameborder="0"></iframe>
+    <iframe src="https://www.makemytrip.com/" frameborder="0"></iframe>
+    <iframe src="./news.html" frameborder="0"></iframe>
+    <iframe src="./table.html" frameborder="0"></iframe>
+    <iframe src="./anchor.html" frameborder="0"></iframe>
+    <iframe src="./media.html" frameborder="0"></iframe>
+    <iframe src="https://www.google.com/maps/@19.1709554,72.9342447,15z?entry=ttu" frameborder="0"></iframe>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30147.58489287076!2d72.93396301775138!3d19.175620507683025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b946f7416bd1%3A0x607946989bcd5daf!2sEV%20Dock%20Charging%20Station!5e0!3m2!1sen!2sin!4v1709660622773!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+    <iframe src="https://www.google.com/maps/embed?pb=!1m25!1m12!1m3!1d30147.59930668874!2d72.93396303002103!3d19.17554173591287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m10!3e6!4m3!3m2!1d19.1624271!2d72.93381509999999!4m4!1s0x3be7b8df51719ccf%3A0x3b3afba7961341f8!3m2!1d19.1864587!2d72.9754684!5e0!3m2!1sen!2sin!4v1709660513575!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/siY7jyDNeps?si=5-ee2pkkW2TZULgC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/F4EsnyctHR0?si=cPQwtpz12Beqdtpx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qH1Jef-Fy2E?si=D9THUiiA2yahDnfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2KdOlV0ao8A?si=EyLx7OprCzpPQcYf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/H59ZXUhv80M?si=Rn96bJLi4KSygoje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0z6aMTkx5FY?si=5wJGOF04bOWoNhSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="966" height="543" src="https://www.youtube.com/embed/EFUSvjts3HQ" title="أنا ثائر أنا ثائر | الرادود هادي فاعور | Ahrarun Ahrarun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</body>
+</html>
